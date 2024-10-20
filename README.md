@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bloc de Notas - Ciencia de Datos</title>
+    <title> Ciencia de Datos</title>
     <style>
         body {
             background-color: #000000; /* Fondo negro */
